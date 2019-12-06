@@ -1,3 +1,4 @@
+
 # Magisk Repo Submissions
 This is the place for developers to submit their Magisk Module to the [Magisk-Modules-Repo](https://github.com/Magisk-Modules-Repo).
 
